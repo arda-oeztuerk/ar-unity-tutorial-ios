@@ -27,7 +27,7 @@ Welcome to the Unity AR App! This project leverages Augmented Reality (AR) to pr
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/unity-ar-app.git
+   git clone https://github.com/arda-oeztuerk/ar-unity-tutorial-ios.git
    
 Navigate to the project directory and open it in Unity.
 
