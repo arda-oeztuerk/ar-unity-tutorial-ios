@@ -7,6 +7,9 @@ Welcome to the Unity AR App! This project leverages Augmented Reality (AR) to pr
 - Rotate objects, play associated sounds, and switch between objects.
 - Easily customizable with new 3D models, sounds, and image targets.
 
+![App insights](https://github.com/user-attachments/assets/a766d23d-f7d7-402e-aa76-4fbf6b893ca2)
+![App insights](https://github.com/user-attachments/assets/e3ef4b38-c270-4105-a13f-7bf1ebc29ece)
+
 ## Requirements
 
 ### Software
@@ -67,8 +70,3 @@ Navigate to the project directory and open it in Unity.
 
 ## License
 This project is released under the [CC0 License](https://creativecommons.org/public-domain/cc0/). You are free to use, modify, and distribute this work without any restrictions.
-
-## Acknowledgements
-- Developed as part of the MediaLab initiative.
-- Tutorial content and additional documentation provided by MediaLab - Dr. Heike Seehagen-Marx.
-
